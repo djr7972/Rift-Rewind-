@@ -1,0 +1,3 @@
+httpx==0.27.2
+aws-lambda-powertools==2.39.0
+boto3==1.34.162
